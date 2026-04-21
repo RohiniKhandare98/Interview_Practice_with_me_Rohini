@@ -42,7 +42,24 @@ Process of automating the software delivery process from code commit to deployme
 
 ### what is CI
 ```
+- continous Intergration --> developer frequently commit code to shared github repository and 
+  each change automtically triggers
+	  - code checkout
+	  - depedency install 
+	  - build
+	  - unit tests 
+	     
 
+```
+
+### Goal of CI 
+```
+- caches bugs early 
+- detect itegration issues early 
+- keeps code always buildable 
+- reduce merge conflicts 
+- prevent broken code moving forward 
+  
 
 ```
 
