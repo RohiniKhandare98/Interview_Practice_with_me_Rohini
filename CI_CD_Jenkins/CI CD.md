@@ -64,6 +64,10 @@ Process of automating the software delivery process from code commit to deployme
 ```
 
 
+### What is CD
+```
+
+```
 
 
 
