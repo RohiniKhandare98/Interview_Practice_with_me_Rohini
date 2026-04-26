@@ -10,6 +10,9 @@
 
 > filesystems are mounted using  /etc/fstab
 > 		this file controls what mounts at boot 
+> 		
+> 		
+>
 
 
 
